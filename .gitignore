@@ -1,0 +1,9 @@
+.project
+.classpath
+.settings/org.eclipse.jdt.core.prefs
+.vscode
+bin/*.class
+/bin/
+/target/
+/target/*
+

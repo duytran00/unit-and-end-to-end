@@ -1,0 +1,3 @@
+xor ( a1 123
+"asd" #a ;comment 
+123a
